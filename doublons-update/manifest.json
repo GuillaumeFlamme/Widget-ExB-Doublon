@@ -1,0 +1,17 @@
+{
+  "name": "doublons-update",
+  "label": "Sélection & mise à jour Doublons",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.21.0",
+  "author": "",
+  "description": "Permet de sélectionner plusieurs tronçons du réseau d'assainissement sur la carte, puis de mettre à jour le champ Doublons à OUI pour les tronçons sélectionnés.",
+  "copyright": "",
+  "license": "",
+  "properties": {},
+  "translatedLocales": ["fr"],
+  "defaultSize": {
+    "width": 360,
+    "height": 400
+  }
+}
