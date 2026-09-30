@@ -9,8 +9,9 @@
   "copyright": "",
   "license": "",
   "properties": {},
-  "translatedLocales": ["fr"],
-  "icon": "icon.svg",
+  "translatedLocales": [
+    "fr"
+  ],
   "defaultSize": {
     "width": 360,
     "height": 400
